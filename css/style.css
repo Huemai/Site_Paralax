@@ -1,0 +1,139 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lato', sans-serif;
+}
+html,body{
+    height: 100%;
+}
+header{
+    height: 100%;
+    opacity: 0.70;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-image: url('../imagens/image1.jpg');
+}
+header h1{
+    text-align: center;
+    background-color: #111;
+    padding: 20px;
+    color: white;
+    font-size: 27px;
+    width: 430px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform:translateX(-50%);
+    letter-spacing: 8px;
+}
+
+.one{
+    text-align: center;
+    padding: 50px 80px;
+    background-color: white;
+    color: #666;
+}
+.one h2{
+    font-size: 27px;
+}
+.one p{
+    margin-top: 10px;
+    line-height: 1.8em;
+    font-size: 16px;
+}
+
+.img2{
+    height: 400px;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-image: url('../imagens/image2.jpg');
+}
+
+.img2 h1{
+    text-align: center;
+    width: 400px;
+    letter-spacing: 8px;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform:translateX(-50%);
+    color: black;
+   
+}
+
+.two{
+    text-align: center;
+    padding: 50px 80px;
+    background-color: #282e34;
+    color: white;
+}
+
+.two h2{
+    font-size: 27px;
+}
+
+.two p{
+    margin-top: 10px;
+    line-height: 1.8em;
+}
+
+.img3{
+    height: 400px;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-image: url('../imagens/image3.jpg');
+}
+
+.img3 h1{
+    text-align: center;
+    width: 400px;
+    letter-spacing: 8px;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform:translateX(-50%);
+    color:white;
+}
+
+.three{
+    text-align: center;
+    padding: 50px 80px;
+    background-color: #282e34;
+    color: white;
+}
+
+.three h2{
+    font-size: 27px;
+}
+
+.three p{
+    margin-top: 10px;
+    line-height: 1.8em;
+}
+
+.footer{
+    height: 100%;
+    opacity: 0.70;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-image: url('../imagens/image1.jpg');
+}
+
+.footer h1{
+    text-align: center;
+    background-color: #111;
+    padding: 20px;
+    color: white;
+    font-size: 27px;
+    width: 425px;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform:translateX(-50%);
+    letter-spacing: 8px;
+}
